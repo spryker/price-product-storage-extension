@@ -25,7 +25,7 @@ interface PriceProductStoragePricesExtractorPluginInterface
 
     /**
      * Specification:
-     * - Extracts additional product prices from price product data for product conrete
+     * - Extracts additional product prices from price product data for product concrete
      * - Uses id to fetch price from abstract product if needed
      *
      * @api
